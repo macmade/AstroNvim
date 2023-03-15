@@ -1,4 +1,5 @@
 return {
+  colorscheme = "astrodark",
   plugins = {
     {
       "goolord/alpha-nvim",
